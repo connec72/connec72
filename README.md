@@ -2,14 +2,14 @@
   <img width="800" height="300" src="https://media2.giphy.com/media/ANklhMEPlGYDRx0KD1/giphy.gif?cid=790b7611dc77520ab0eb323a16302b87b28d9af1eed4a5f7&rid=giphy.gif&ct=g">
 </p>
 
-<h3>Hi, I am Burak 👋</h3>
+<h1>Hi, I am Burak 👋</h1>
 
-<h2>My Interests:<h2>
+<h3>My Interests:</h3>
   *👨🏻‍💻Coding cybersecurity tools
   *⚔️Web Application Pentesting
   *🔶Red Teaming
   
-<h2>My TryHackMe Profile:</2><br>
+<h3>My TryHackMe Profile:</h3><br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/connec.png" alt="TryHackMe">
 
 <h3 align="left">Connect with me:</h3>
