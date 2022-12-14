@@ -4,8 +4,8 @@
 
 <h1>Hi, I am Burak 👋</h1>
 
-<h3>My Interests:</h3>
-  *👨🏻‍💻Coding cybersecurity tools<br>
+<h3>My Skills:</h3>
+  *👨🏻‍💻Coding cybersecurity tools with python<br>
   *⚔️Web Application Pentesting<br>
   *🔶Red Teaming<br>
   
