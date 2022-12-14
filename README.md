@@ -9,7 +9,7 @@
   *⚔️Web Application Pentesting<br>
   *🔶Red Teaming<br>
   
-<h3>My TryHackMe Profile:</h3><br>
+<h3>My TryHackMe Profile:</h3>
 <img src="https://tryhackme-badges.s3.amazonaws.com/connec.png" alt="TryHackMe">
 
 <h3 align="left">Connect with me:</h3>
