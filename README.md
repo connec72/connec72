@@ -3,8 +3,7 @@
 </p>
 <h2>
 
-My TryHackMe Profile:
-<img src="https://tryhackme-badges.s3.amazonaws.com/connec.png" alt="TryHackMe">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
