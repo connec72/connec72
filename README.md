@@ -17,4 +17,4 @@
 <a href="https://twitter.com/BurakHaseki4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/burakhaseki0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/burak-haseki-84898b250/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://t.me/connectht" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/1766858341556105723-512.png" alt="" height="30" width="40" /></a>
+<a href="https://t.me/connec72" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/1766858341556105723-512.png" alt="" height="30" width="40" /></a>
